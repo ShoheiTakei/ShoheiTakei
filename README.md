@@ -1,6 +1,6 @@
 # About Me
 
-1. I'm a web front-end developer and app developer from Japan.
+1. I'm a web front end developer and app developer from Japan.
 
 2. My favorites are React, TypeScript, Flutter
 
