@@ -1,6 +1,6 @@
 # About Me
 
-1. I'm a web frontend and backend developer from Japan
+1. I'm a web frontend developer from Japan
 
 2. My favorites are React, TypeScript, Flutter
 
