@@ -2,8 +2,7 @@
 
 1. I'm a web frontend and backend developer from Japan
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
-
+2. My favorites are React, TypeScript, Flutter
 
 3. You can find my Zenn Blog [here](https://zenn.dev/st_jwd)
 
